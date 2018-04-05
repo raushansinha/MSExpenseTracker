@@ -1,0 +1,11 @@
+C:\Raushan\ASPCORE\MSExpenseTracker\MSExpenseTracker\bin\Release\netcoreapp2.0\MSExpenseTracker.deps.json
+C:\Raushan\ASPCORE\MSExpenseTracker\MSExpenseTracker\bin\Release\netcoreapp2.0\MSExpenseTracker.runtimeconfig.json
+C:\Raushan\ASPCORE\MSExpenseTracker\MSExpenseTracker\bin\Release\netcoreapp2.0\MSExpenseTracker.runtimeconfig.dev.json
+C:\Raushan\ASPCORE\MSExpenseTracker\MSExpenseTracker\bin\Release\netcoreapp2.0\MSExpenseTracker.dll
+C:\Raushan\ASPCORE\MSExpenseTracker\MSExpenseTracker\bin\Release\netcoreapp2.0\MSExpenseTracker.pdb
+C:\Raushan\ASPCORE\MSExpenseTracker\MSExpenseTracker\obj\Release\netcoreapp2.0\MSExpenseTracker.csprojResolveAssemblyReference.cache
+C:\Raushan\ASPCORE\MSExpenseTracker\MSExpenseTracker\obj\Release\netcoreapp2.0\MSExpenseTracker.csproj.CoreCompileInputs.cache
+C:\Raushan\ASPCORE\MSExpenseTracker\MSExpenseTracker\obj\Release\netcoreapp2.0\MSExpenseTracker.AssemblyInfoInputs.cache
+C:\Raushan\ASPCORE\MSExpenseTracker\MSExpenseTracker\obj\Release\netcoreapp2.0\MSExpenseTracker.AssemblyInfo.cs
+C:\Raushan\ASPCORE\MSExpenseTracker\MSExpenseTracker\obj\Release\netcoreapp2.0\MSExpenseTracker.dll
+C:\Raushan\ASPCORE\MSExpenseTracker\MSExpenseTracker\obj\Release\netcoreapp2.0\MSExpenseTracker.pdb
